@@ -1,0 +1,599 @@
+Neutral,Male,Female
+Adventurous,Adventurous,Adventuress
+Champion,Knight,Heroine
+Creative,Innovator,Muse
+Determined,Determined,Determined
+Fearless,Gladiator,Amazon
+Courteous person,Gentleman,Lady
+Bold,Maverick,Dame
+Charismatic,Leader,Diva
+Confident,Alpha,Goddess
+Daring,Daredevil,Wonder Woman
+Energetic,Powerhouse,Dynamo
+Gracious,King,Princess
+Humble,Monk,Nun
+Intelligent,Scholar,Wise Woman
+Kind,Kind,Kind
+Loyal,Protector,Guardian
+Noble,Sir,Lady
+Optimistic,Visionary,Dreamer
+Powerful,Titan,Empress
+Resilient,Viking,Survivor
+Strong,Hercules,Valkyrie
+Thoughtful,Sage,Oracle
+Valiant,Crusader,Amazon Warrior
+Wise,Philosopher,Sage
+Zealous,Champion,Advocate
+Ambitious,Kingpin,Queenpin
+Analytical,Strategist,Analyst
+Assertive,Commander,Queen Bee
+Calm,Stoic,Peacekeeper
+Compassionate,Healer,Nurturer
+Courageous,Brave,Brave
+Curious,Explorer,Seeker
+Dedicated,Soldier,Valkyrie
+Disciplined,General,High Priestess
+Dynamic,Trailblazer,Revolutionary
+Eloquent,Orator,Rhetorician
+Fierce,Lionheart,Tigress
+Forgiving,Priest,Matriarch
+Honest,Man of Honor,Woman of Honor
+Imaginative,Creator,Dreamweaver
+Independent,Lone Wolf,She-Wolf
+Inventive,Innovator,Creator
+Just,Judge,Magistrate
+Kindhearted,Generous,Kindhearted
+Logical,Thinker,Analyst
+Meticulous,Craftsman,Craftswoman
+Modest,Gentleman,Modest Woman
+Observant,Watchman,Watchwoman
+Patient,Shepherd,Shepherdess
+Perseverant,Spartan,Amazon Warrior
+Persuasive,Debater,Influencer
+Practical,Problem-solver,Planner
+Quick-witted,Jester,Wit
+Reliable,Backbone,Rock
+Respectful,Gentleman,Lady
+Sensible,Rationalist,Pragmatist
+Sensitive,Protector,Empath
+Sincere,Man of His Word,Woman of Her Word
+Spontaneous,Wild Card,Free Spirit
+Steadfast,Anchor,Pillar
+Tenacious,Pit Bull,Lioness
+Thorough,Perfectionist,Detail-oriented Woman
+Unyielding,Mountain,Fortress
+Versatile,Renaissance Man,Renaissance Woman
+Warm,Hearthkeeper,Homemaker
+Witty,Joker,Wit
+Zealous,Crusader,Passionate Advocate
+Adaptable,Chameleon,Shape-shifter
+Altruistic,Samaritan,Benefactress
+Articulate,Speaker,Storyteller
+Balanced,Equalizer,Harmonizer
+Benevolent,Patron,Matron
+Cautious,Scout,Guardian
+Charming,Prince Charming,Enchantress
+Composed,Stoic,Graceful
+Cooperative,Team Player,Collaborator
+Courteous,Gentleman,Lady
+Decisive,Commander,Matriarch
+Diplomatic,Negotiator,Peacemaker
+Efficient,Taskmaster,Taskmistress
+Empathetic,Protector,Empath
+Encouraging,Coach,Mentor
+Enthusiastic,Fanatic,Cheerleader
+Ethical,Man of Integrity,Woman of Principle
+Experienced,Veteran,Veteran
+Faithful,Man of Faith,Faithful Woman
+Forthright,Straight-shooter,Honest Woman
+Gentle,Gentleman,Gentlewoman
+Hardworking,Workhorse,Hustler
+Helpful,Samaritan,Aider
+Humorous,Jester,Comedienne
+Idealistic,Visionary,Dreamer
+Impressive,Man of Action,Wonder Woman
+Influential,Leader,Icon
+Intrepid,Adventurer,Trailblazer
+Joyful,Jolly Fellow,Happy Spirit
+Justifiable,Arbiter,Mediator
+Knowledgeable,Sage,Oracle
+Laid-back,Chill Dude,Laid-back Lady
+Likable,Charmer,Sweetheart
+Logical,Analyst,Pragmatist
+Lovable,Teddy Bear,Sweetheart
+Magnetic,Charmer,Seductress
+Nurturing,Provider,Caregiver
+Open-minded,Free Thinker,Free Spirit
+Outgoing,Social Butterfly,Socialite
+Passionate,Hot-blooded,Firebrand
+Patient,Stoic,Patient Saint
+Peaceful,Peacemaker,Tranquil Soul
+Perceptive,Sage,Oracle
+Persistent,Bulldog,She-Wolf
+Playful,Rascal,Minx
+Practical,Pragmatist,Realist
+Proactive,Go-getter,Self-starter
+Protective,Shield,Guardian Angel
+Rational,Thinker,Analyzer
+Reliable,Stalwart,Loyalist
+Resourceful,Problem-solver,Fixer
+Respectable,Man of Honor,Woman of Honor
+Risk-taking,Daredevil,Risk-taker
+Self-assured,Man of Confidence,Confident Woman
+Self-reliant,Independent Man,Independent Woman
+Sensational,Star,Showstopper
+Sincere,Gentleman,Genuine Woman
+Social,Networker,Connector
+Steady,Rock,Steady Hand
+Strategic,Tactician,Planner
+Supportive,Ally,Best Friend
+Sympathetic,Protector,Nurturer
+Talented,Prodigy,Virtuoso
+Trustworthy,Man of Honor,Woman of Honor
+Understanding,Counselor,Healer
+Unstoppable,Juggernaut,Powerhouse
+Vibrant,Live Wire,Firecracker
+Visionary,Seer,Prophetess
+Wholesome,Good Samaritan,Nurturer
+Zealous,Advocate,Crusader
+Aggressive,Conqueror,Valkyrie
+Amusing,Joker,Comedienne
+Boring,Dry Fellow,Plain Jane
+Calm,Stoic,Gentle Spirit
+Clever,Quick Thinker,Sharp Minded
+Competitive,Warrior,Competitor
+Considerate,Gentleman,Lady
+Cooperative,Team Player,Collaborator
+Courageous,Spartan,Valkyrie
+Crazy,Wild Man,Eccentric Lady
+Curious,Investigator,Sleuth
+Dedicated,Workhorse,Loyalist
+Determined,Determined,Determined
+Diligent,Hard Worker,Tireless Worker
+Energetic,Dynamo,Firecracker
+Funny,Joker,Comedienne
+Helpful,Supporter,Nurturer
+Honest,Gentleman,Truth Speaker
+Humorous,Joker,Comedienne
+Intelligent,Brainiac,Wise Woman
+Logical,Rationalist,Analyst
+Passionate,Firebrand,Enthusiast
+Patient,Sage,Calm Spirit
+Polite,Gentleman,Lady
+Practical,Realist,Pragmatist
+Reliable,Stalwart,Rock
+Resourceful,Problem Solver,Creative Mind
+Respectful,Gentleman,Lady
+Sensible,Thinker,Analyzer
+Thoughtful,Thinker,Philosopher
+Unstoppable,Juggernaut,Powerhouse
+Wise,Philosopher,Oracle
+Able,Competitor,Contender
+Affectionate,Gentleman,Sweetheart
+Agile,Ninja,Panther
+Alert,Watchman,Scout
+Amicable,Buddy,Bestie
+Analytical,Strategist,Analyst
+Assertive,Alpha Male,Queen Bee
+Astonishing,Magician,Enchantress
+Attentive,Protector,Caregiver
+Audacious,Daredevil,Bold Leader
+Balanced,Steady Hand,Peacekeeper
+Beautiful,Prince,Belle
+Bravehearted,Spartan,Lioness
+Capable,Craftsman,Craftswoman
+Cautious,Watchman,Guardian
+Cheerful,Jovial Fellow,Sunshine
+Chill,Bro,Cool Chick
+Compassionate,Healer,Nurturer
+Confident,Alpha,Queen
+Considerate,Gentleman,Nurturer
+Cool,Slick Dude,Trendsetter
+Courageous,Courageous,Courageous
+Courteous,Sir,Madam
+Creative,Inventor,Artist
+Decisive,Commander,Matron
+Dedicated,Crusader,Advocate
+Devoted,Paladin,Loyalist
+Diplomatic,Statesman,Peacemaker
+Dynamic,Catalyst,Energizer
+Eager,Go-getter,Enthusiast
+Effective,Taskmaster,Planner
+Effervescent,Spark Plug,Firecracker
+Empathetic,Gentle Giant,Listener
+Endearing,Sweetheart,Darling
+Enthusiastic,Fanatic,Cheerleader
+Ethical,Man of Principle,Woman of Integrity
+Exceptional,Virtuoso,Wonder Woman
+Exuberant,Live Wire,Fireball
+Fair-minded,Arbiter,Mediator
+Fascinating,Wizard,Sorceress
+Flexible,Acrobat,Contortionist
+Focused,Laser-eyed,Sharp Shooter
+Preacher,Priest,Priestess
+Friendly,Buddy,Pal
+Gallant,Gallant,Gallant
+Gentle,Soft-hearted Man,Graceful Woman
+Gifted,Prodigy,Virtuoso
+Gregarious,Social Butterfly,Queen of the Party
+Happy,Merry Fellow,Joyful Spirit
+Hardworking,Workhorse,Hustler
+Harmonious,Peacemaker,Mediator
+Honest,Man of Honor,Woman of Honor
+Humble,Grounded Man,Humble Woman
+Impeccable,Gentleman,Lady
+Impulsive,Risk-taker,Wild Child
+Independent,Lone Wolf,Free Spirit
+Insightful,Seer,Oracle
+Inspiring,Leader,Muse
+Intuitive,Intellect,Empath
+Inventive,Innovator,Trailblazer
+Jovial,Jester,Joy Bringer
+Kindhearted,Good Samaritan,Nurturer
+Knowledgeable,Scholar,Philosopher
+Leaderlike,Captain,Matriarch
+Likable,Charmer,Sweetheart
+Loving,Protector,Nurturer
+Loyal,Right-hand Man,Best Friend
+Mature,Wise Man,Wise Woman
+Methodical,Engineer,Planner
+Mindful,Monk,Meditator
+Motivated,Go-getter,Self-starter
+Noble,Nobleman,Noblewoman
+Observant,Watchman,Watchwoman
+Open-hearted,Philanthropist,Humanitarian
+Optimistic,Dreamer,Visionary
+Organized,Planner,Organizer
+Passionate,Hot-blooded,Firebrand
+Patient,Stoic,Healer
+Persistent,Stubborn Mule,Determined Woman
+Philanthropic,Benefactor,Benefactress
+Playful,Joker,Prankster
+Polished,Gentleman,Lady
+Practical,Realist,Problem Solver
+Proactive,Self-starter,Initiator
+Productive,Taskmaster,Achiever
+Proud,Alpha Male,Queen
+Punctual,Timekeeper,Planner
+Purposeful,Visionary,Missionary
+Quick-minded,Fast Thinker,Sharp Thinker
+Realistic,Grounded Man,Pragmatist
+Reassuring,Anchor,Rock
+Reflective,Philosopher,Thinker
+Reliable,Backbone,Foundation
+Respectable,Gentleman,Lady
+Risk-taking,Daredevil,Adventurer
+Romantic,Charmer,Lover
+Sincere,Man of His Word,Woman of Her Word
+Sociable,Party-goer,Social Butterfly
+Spirited,Firestarter,Sparkplug
+Strategic,Chessmaster,Tactician
+Supportive,Ally,Best Friend
+Trusting,Faithful Friend,Trustworthy Companion
+Versatile,Jack of All Trades,Renaissance Woman
+Vibrant,Live Wire,Sparkling Soul
+Witty,Quick-witted Fellow,Sharp-tongued Woman
+Adaptable,Shapeshifter,Chameleon
+Adventurous,Adventurous,Adventuress
+Affable,Good-natured Guy,Sweet Lady
+Approachable,Friendly Fellow,Welcoming Woman
+Astute,Sharp-minded Man,Keen Observer
+Balanced,Equilibrium Keeper,Harmonizer
+Benevolent,Kindhearted Gentleman,Generous Lady
+Bright,Luminous Soul,Radiant Spirit
+Candid,Straight-shooter,Truth Speaker
+Compassionate,Warm-hearted Man,Gentle Soul
+Conscientious,Duty-bound Man,Principled Woman
+Courageous,Fearless Warrior,Bold Adventurer
+Devoted,Loyal Guardian,Faithful Companion
+Dignified,Man of Esteem,Woman of Grace
+Efficient,Productive Leader,Efficient Organizer
+Fearless,Lionhearted Man,Daring Woman
+Gracious,Gallant Gentleman,Elegant Lady
+Humorous,Fun-loving Guy,Witty Woman
+Industrious,Tireless Worker,Diligent Lady
+Intuitive,Perceptive Thinker,Insightful Healer
+Joyful,Happy-go-lucky Guy,Joy-filled Woman
+Magnanimous,Noble-hearted Man,Gracious Leader
+Perceptive,Insightful Sage,Wise Seer
+Serene,Tranquil Leader,Calm Spirit
+Vibrant,Energetic Fellow,Radiant Woman
+They,He,She
+Them,Him,Her
+Their,His,Her
+Themselves,Himself,Herself
+Mr.,Mr.,Mrs.
+Sir,Sir,Madam
+Boy,Boy,Girl
+Man,Man,Woman
+Parent,Father,Mother
+Child,Son,Daughter
+Sibling,Brother,Sister
+Spouse,Husband,Wife
+Emperor,King,Queen
+Performer,Actor,Actress
+Duke,Duke,Duchess
+Prince,Prince,Princess
+Bachelor,Bachelor,Bachelorette
+Nephew,Nephew,Niece
+Uncle,Uncle,Aunt
+Hero,Hero,Heroine
+Server,Waiter,Waitress
+Event Coordinator,Host,Hostess
+Groom,Groom,Bride
+God,God,Goddess
+Emperor,Emperor,Empress
+They,They,They
+Them,Them,Them
+Their,Their,Their
+Theirs,Theirs,Theirs
+Themselves,Themselves,Themselves
+One,One,One
+Oneself,Oneself,Oneself
+Mx.,Mx.,Mx.
+Child,Child,Child
+Parent,Father,Mother
+Guardian,Guardian,Guardian
+Friend,Friend,Friend
+Colleague,Colleague,Colleague
+Acquaintance,Acquaintance,Acquaintance
+Lover,Lover,Lover
+Partner,Partner,Partner
+Spouse,Husband,Wife
+Sibling,Brother,Sister
+Relative,Relative,Relative
+Ancestor,Ancestor,Ancestor
+Descendant,Descendant,Descendant
+Companion,Companion,Companion
+Peer,Peer,Peer
+Childlike,Childlike,Childlike
+Adolescent,Boy,Girl
+Youth,Youth,Youth
+Adult,Man,Woman
+Senior,Senior,Senior
+Matriarch,Patriarch,Matriarch
+Heir,Heir,Heiress
+Master,Master,Mistress
+Shepherd,Shepherd,Shepherdess
+Count,Count,Countess
+Baron,Baron,Baroness
+Politician,Politician,Politician
+Leader,Leader,Leader
+Artist,Artist,Artist
+Writer,Writer,Writer
+Author,Author,Author
+Teacher,Teacher,Teacher
+Student,Student,Student
+Athlete,Athlete,Athlete
+Player,Player,Player
+Mentor,Mentor,Mentor
+Role Model,Role Model,Role Model
+Chef,Chef,Chef
+Performer,Performer,Performer
+Dancer,Dancer,Dancer
+Advocate,Advocate,Advocate
+Scientist,Scientist,Scientist
+Explorer,Explorer,Explorer
+Inventor,Inventor,Inventor
+Engineer,Engineer,Engineer
+Technician,Technician,Technician
+Farmer,Farmer,Farmer
+Driver,Driver,Driver
+Sailor,Sailor,Sailor
+Builder,Builder,Builder
+Baker,Baker,Baker
+Mechanic,Mechanic,Mechanic
+Librarian,Librarian,Librarian
+Helper,Helper,Helper
+Mentor,Mentor,Mentor
+Guide,Guide,Guide
+Champion,Champion,Champion
+Hero,Hero,Heroine
+Benefactor,Benefactor,Benefactress
+Hero,Hero,Heroine
+Visionary,Visionary,Visionary
+Pioneer,Pioneer,Pioneer
+Advocate,Advocate,Advocate
+Innovator,Innovator,Innovator
+Authority,Authority,Authority
+Leader,Leader,Leader
+Survivor,Survivor,Survivor
+Performer,Actor,Actress
+Server,Waiter,Waitress
+Lion,Lion,Lioness
+King,King,Queen
+Duke,Duke,Duchess
+God,God,Goddess
+Prince,Prince,Princess
+Hero,Hero,Heroine
+Steward,Steward,Stewardess
+Master,Master,Mistress
+Bachelor,Bachelor,Bachelorette
+Farmer,Farmer,Farmeress
+Prince,Prince,Princess
+Wizard,Wizard,Witch
+Sibling,Brother,Sister
+Shepherd,Shepherd,Shepherdess
+Sire,Sire,Dame
+Baron,Baron,Baroness
+Bachelor,Bachelor,Bachelorette
+Husband,Husband,Wife
+Son,Son,Daughter
+Nephew,Nephew,Niece
+Uncle,Uncle,Aunt
+Emperor,Emperor,Empress
+Count,Count,Countess
+Sorcerer,Sorcerer,Sorceress
+Drummer,Drummer,Drummeress
+Prince,Prince,Princess
+Monk,Monk,Nun
+Patron,Patron,Matron
+Conductor,Conductor,Conductress
+Wizard,Wizard,Witch
+Salesman,Salesman,Saleswoman
+Broker,Broker,Brokeress
+Governor,Governor,Governess
+Master,Master,Mistress
+Coach,Coach,Coachess
+Shepherd,Shepherd,Shepherdess
+Landlord,Landlord,Landlady
+Hero,Hero,Heroine
+Artist,Artist,Artistess
+Player,Player,Playeress
+Protector,Protector,Protectress
+Explorer,Explorer,Exploreress
+Author,Author,Authoress
+Conqueror,Conqueror,Conqueress
+Hunter,Hunter,Huntress
+Chef,Chef,Chefette
+Guide,Guide,Guidess
+Scholar,Scholar,Scholaress
+Neighbor,Neighbor,Neighboress
+Monarch,Monarch,Monarchess
+Leader,Leader,Leaderess
+Poet,Poet,Poetess
+Follower,Follower,Followeress
+Artist,Artist,Artistess
+Inventor,Inventor,Inventress
+Teacher,Teacher,Teacheress
+Designer,Designer,Designeress
+Engineer,Engineer,Engineeress
+Protector,Protector,Protectress
+Ruler,Ruler,Ruless
+Scientist,Scientist,Scientistess
+Researcher,Researcher,Researchess
+Leader,Leader,Leaderess
+Builder,Builder,Builderess
+Collector,Collector,Collectress
+Negotiator,Negotiator,Negotiatress
+Provider,Provider,Provideress
+Advisor,Advisor,Advisress
+Servant,Servant,Servantess
+Benefactor,Benefactor,Benefactress
+Salesperson,Salesperson,Saleswoman
+Hero,Hero,Heroine
+Conductor,Conductor,Conductor
+Listener,Listener,Listener
+Translator,Translator,Translator
+Director,Director,Director
+Defender,Defender,Defender
+Doctor,Doctor,Doctor
+Judge,Judge,Judge
+Captain,Captain,Captain
+Barista,Barista,Barista
+Technician,Technician,Technician
+Protector,Protector,Protector
+Mechanic,Mechanic,Mechanic
+Accountant,Accountant,Accountant
+Politician,Politician,Politician
+Librarian,Librarian,Librarian
+Director,Director,Director
+Diplomat,Diplomat,Diplomat
+Pharmacist,Pharmacist,Pharmacist
+Historian,Historian,Historian
+Psychologist,Psychologist,Psychologist
+Biologist,Biologist,Biologist
+Physicist,Physicist,Physicist
+Chemist,Chemist,Chemist
+Artist,Artist,Artist
+Dancer,Dancer,Dancer
+Musician,Musician,Musician
+Author,Author,Author
+Consultant,Consultant,Consultant
+Editor,Editor,Editor
+Researcher,Researcher,Researcher
+Mechanic,Mechanic,Mechanic
+Trainer,Trainer,Trainer
+Politician,Politician,Politician
+Navigator,Navigator,Navigator
+Broker,Broker,Broker
+Bouncer,Bouncer,Bouncer
+Pilot,Pilot,Pilot
+Firefighter,Firefighter,Firefighter
+Sailor,Sailor,Sailor
+Craftsman,Craftsman,Craftsman
+Painter,Painter,Painter
+Sculptor,Sculptor,Sculptor
+Waiter,Waiter,Waiter
+Editor,Editor,Editor
+Director,Director,Director
+Coach,Coach,Coach
+Broker,Broker,Broker
+Innovator,Innovator,Innovator
+Advisor,Advisor,Advisor
+Evaluator,Evaluator,Evaluator
+Auditor,Auditor,Auditor
+Manager,Manager,Manager
+Overseer,Overseer,Overseer
+Trainer,Trainer,Trainer
+Activist,Activist,Activist
+Entrepreneur,Entrepreneur,Entrepreneur
+Specialist,Specialist,Specialist
+Innovator,Innovator,Innovator
+Strategist,Strategist,Strategist
+Broker,Broker,Broker
+Director,Director,Director
+Facilitator,Facilitator,Facilitator
+Event Coordinator,Host,Hostess
+Partner,Partner,Partner
+Observer,Observer,Observer
+Narrator,Narrator,Narrator
+Editor,Editor,Editor
+Builder,Builder,Builder
+Creator,Creator,Creator
+Investor,Investor,Investor
+Recruiter,Recruiter,Recruiter
+Developer,Developer,Developer
+Coordinator,Coordinator,Coordinator
+Performer,Performer,Performer
+Contractor,Contractor,Contractor
+Designer,Designer,Designer
+Artist,Artist,Artist
+Producer,Producer,Producer
+Researcher,Researcher,Researcher
+Historian,Historian,Historian
+Comedian,Comedian,Comedian
+Strategist,Strategist,Strategist
+Speaker,Speaker,Speaker
+Instructor,Instructor,Instructor
+Patron,Patron,Patron
+Guardian,Guardian,Guardian
+Attendant,Attendant,Attendant
+Critic,Critic,Critic
+Servant,Servant,Servant
+Editor,Editor,Editor
+Specialist,Specialist,Specialist
+Surgeon,Surgeon,Surgeon
+Driver,Driver,Driver
+Sailor,Sailor,Sailor
+Courier,Courier,Courier
+Dancer,Dancer,Dancer
+Technician,Technician,Technician
+Scout,Scout,Scout
+Referee,Referee,Referee
+Advocate,Advocate,Advocate
+Hero,Hero,Hero
+Pilot,Pilot,Pilot
+Painter,Painter,Painter
+Producer,Producer,Producer
+Researcher,Researcher,Researcher
+Instructor,Instructor,Instructor
+Monitor,Monitor,Monitor
+Patron,Patron,Patron
+Benefactor,Benefactor,Benefactor
+Director,Director,Director
+Event Coordinator,Host,Hostess
+Engineer,Engineer,Engineer
+Navigator,Navigator,Navigator
+Inventor,Inventor,Inventor
+Therapist,Therapist,Therapist
+Performer,Performer,Performer
+Ambassador,Ambassador,Ambassador
+Narrator,Narrator,Narrator
+Alchemist,Alchemist,Alchemist
+Detective,Detective,Detective
+Farmer,Farmer,Farmer
+Conductor,Conductor,Conductor
+Collector,Collector,Collector
+Negotiator,Negotiator,Negotiator
+Researcher,Researcher,Researcher
